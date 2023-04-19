@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "66216452714",
+    "firebase_url": "https://schockwellennetz-a62d7-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "schockwellennetz-a62d7",
+    "storage_bucket": "schockwellennetz-a62d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66216452714:android:5bd490dbdeab2df5c06013",
+        "android_client_info": {
+          "package_name": "com.example.detektor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "66216452714-d9b635j7va2bptcuvug5bgbugesh0qio.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKucXAVPLxH1rIcFWidD81BYL8Rdzxiwg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "66216452714-d9b635j7va2bptcuvug5bgbugesh0qio.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66216452714:android:d3fda4ad8fa20db5c06013",
+        "android_client_info": {
+          "package_name": "com.example.schockwellennetz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "66216452714-d9b635j7va2bptcuvug5bgbugesh0qio.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKucXAVPLxH1rIcFWidD81BYL8Rdzxiwg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "66216452714-d9b635j7va2bptcuvug5bgbugesh0qio.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
